@@ -6,6 +6,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/duke-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/duke-energy-corporation
   - type: Website
