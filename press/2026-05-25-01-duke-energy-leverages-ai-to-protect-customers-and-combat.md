@@ -1,7 +1,9 @@
 ---
 title: Duke Energy leverages AI to protect customers and combat ...
 url: https://investors.duke-energy.com/news/news-details/2026/Duke-Energy-leverages-AI-to-protect-customers-and-combat-scams/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Duke Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google
